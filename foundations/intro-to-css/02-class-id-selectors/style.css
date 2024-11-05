@@ -1,0 +1,21 @@
+
+.oddstyle {
+background-color: hsl(349, 100%, 82%);
+font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#second{
+color: rgb(13, 48, 207);
+font-size: 36px;
+}
+
+#third{
+font-size: 24px;
+}
+
+#forth{
+background-color: rgba(91, 228, 84, 0.723);
+font-size: 24px;
+font-weight: 800;
+}
+    
